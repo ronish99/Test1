@@ -12,6 +12,7 @@ import Uncontrolled from "./components/Uncontrolled component";
 import BlogPost from "./components/post";
 import Counter from "./components/counter";
 import Form from "./components/redux form";
+import Jpt from "./components/jpt";
 // const ThemeContext = createContext(null);
 
 // const todos = createTodos();
@@ -26,6 +27,7 @@ function App() {
       <BlogPost />
       <Counter />
       <Form />
+      <Jpt />
       {/* <Uncontrolled /> */}
       {/* <label>
         <input
